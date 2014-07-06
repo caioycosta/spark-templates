@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="freemarker.jar"/>
+	<classpathentry kind="lib" path="slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="servlet-api-3.0.pre4.jar"/>
+	<classpathentry kind="lib" path="jetty-webapp-7.3.0.v20110203.jar"/>
+	<classpathentry kind="lib" path="spark-0.9.9.4-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
